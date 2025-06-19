@@ -22,7 +22,7 @@ This repository contains code, documentation, and resources for a speech process
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/Speech-Processing.git
+    git clone https://github.com/AnubhavAvinash/Speech-Processing
     cd Speech-Processing
     ```
 2. Install dependencies:
